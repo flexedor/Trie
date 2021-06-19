@@ -1,0 +1,5 @@
+﻿  Lab6.cpp
+C:\Progects\PG\2 Semestr\Algorytmy i Struktury Danych\lab\Lab6\Lab6\Lab6.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+C:\Progects\PG\2 Semestr\Algorytmy i Struktury Danych\lab\Lab6\Lab6\Lab6.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+C:\Progects\PG\2 Semestr\Algorytmy i Struktury Danych\lab\Lab6\Lab6\Lab6.cpp(101,21): warning C4018: '<': signed/unsigned mismatch
+C:\Progects\PG\2 Semestr\Algorytmy i Struktury Danych\lab\Lab6\Lab6\Lab6.cpp(123,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
